@@ -158,5 +158,5 @@ The Schatten-p norm minimization algorithm generalizes the nuclear norm minimiza
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
